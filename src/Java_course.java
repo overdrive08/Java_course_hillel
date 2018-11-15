@@ -16,5 +16,12 @@ public class Java_course {
                 System.out.print(mas2d[i][j] + " ");
             System.out.println();
         }
+        System.out.println("*        * * *");
+        System.out.println("*      *      ");
+        System.out.println("*      *      ");
+        System.out.println("*        * *  ");
+        System.out.println("*            *");
+        System.out.println("*            *");
+        System.out.println("*      * * *  ");
     }
 }
